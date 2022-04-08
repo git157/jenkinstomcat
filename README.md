@@ -1,2 +1,0 @@
-# jenkinstomcat
-tomcat deployment purpose
